@@ -1,9 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLooper", "TestLooper\TestLooper.csproj", "{8BAF4DEE-94BE-4168-81D8-39FA2C2E0973}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSamples", "UnitTestSamples\UnitTestSamples.csproj", "{19F15007-921F-445A-AF53-9971EE6DFE63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{601C5822-D40E-4834-A431-279EF50E4690}"
+	ProjectSection(SolutionItems) = preProject
+		InstallScript2015.cmd = InstallScript2015.cmd
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
